@@ -1,0 +1,53 @@
+body{
+
+  background-image:url(https://bigfoto.name/uploads/posts/2021-11/1637627761_3-bigfoto-name-p-fon-sinii-odnotonnii-pastelnii-3.jpg);
+
+}
+
+h1{
+
+  Color:#00008B;
+
+  font-style:TNR;
+
+}
+
+p{
+
+ font-family: Arial, sans-serif;
+
+  font-size:17px;
+
+}
+
+h2{
+
+  text-align:center;
+
+  Color:#FF7400;
+
+  font-style:TNR;
+
+}
+
+h1{
+
+  background-color:#FFB000;
+
+}
+
+footer{
+
+  background-color:#FFB000;
+
+  text-align:right;
+
+}
+
+header{
+
+  text-align:center;
+
+  background-color:#FFB000;
+
+}
