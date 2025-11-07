@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+</head>
+
+<header> <pre> Католог Избранное Корзина </pre>
+
+</header>
+
+<body>
+
+<main>
+
+<pre>
+
+<div class="container">
+
+<div class="item"><h1>Тарелка</h1>
+
+<p>Тарелка - это класс</p>
+
+</div>
+
+<div class="item2"><h1>Ложка</h1>
+
+<p>Ложка - это супер</p>
+
+</div>
+
+<div class="item3"><h1>Нож</h1>
+
+<p>Ложка - это плохо</p></div>
+
+<div class="item4"><h1>Вилка</h1>
+
+<p>Вилка - это 4</p></div>
+
+<div class="item5"><h1>Кастрюля</h1>
+
+<p>Кастрюля - это треш</p></div>
+
+</div>
+
+</pre>
+
+  <pre>
+
+  <pre>
+
+<div class="container2">
+
+<div class="item9"><h1>Контакты</h1>
+
+<p>Контакты - это супер</p></div>
+
+<div class="item6"><h1>Email</h1>
+
+<p>Почта - это супер</p>
+
+</div>
+
+<div class="item7"><h1>Адрес</h1>
+
+<p>Адрес - это супер</p>
+
+</div>
+
+<div class="item6"><h1>VK</h1>
+
+<p>ВК - это супер</p>
+
+</div>
+
+<div class="item8"><h1>TГ</h1>
+
+<p>ТГ - это супер</p></div>
+
+</div>
+
+</pre>
+
+</main>
+
+</body>
+
+</html>
