@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cotton Candy - Магазин духов</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Главная</li>
+                <li>Духи</li>
+                <li class="logo">Cotton Candy</li>
+                <li>О нас</li>
+                <li>Контакты</li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <h1>Откройте мир нежных ароматов</h1>
+            <p>Cotton Candy - уникальная коллекция духов</p>
+            <a class="btn">Купить сейчас</a>
+        </div>
+        <div class="hero-image">
+            <img src="https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/2975705/smRRI43uo10QpCptcNZXw.jpg">
+        </div>
+    </section>
+</div>
+  <div class="container">
+    
+<!-- Часть с каталогом -->
+    
+    <div class="item">
+        <h2>Miss Dior</h2>
+        <img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAON8gt.img?w=768&h=512&m=6" alt="">
+        <p>Женский аромат от бренда Christian Dior.</p>
+        <button class="btn2">Купить</button>
+        <button class="btn1">Подробнее</button>
+    </div>
+
+    <div class="item">
+        <h2>Victoria's Secret Bombshell</h2>
+        <img src="https://nypost.com/wp-content/uploads/sites/2/2023/05/7-26.png?resize=84" alt="">
+        <p>Парфюмерная вода с цветочным фруктовым ароматом</p>
+        <button class="btn2">Купить</button>
+        <button class="btn1">Подробнее</button>
+    </div>
+
+    <div class="item">
+        <h2>Nina Ricci Les</h2>
+        <img src="https://i.timeout.ru/pix/331838.jpeg" alt="">
+        <p>Это лимитированное издание, новое прочтение оригинального аромата Nina.</p>
+        <button class="btn2">Купить</button>
+        <button class="btn1">Подробнее</button>
+    </div>
+</div>
+  
+  <!-- Часть с обложкой и подвалом -->
+   <section class="hero" id="home">
+        <div class="hero-content">
+            <h1>Погрузитесь в этот мир</h1>
+            <p>Cotton Candy - это про тонкие ноты богатства</p>
+        </div>
+        <div class="hero-image">
+            <img src="https://avatars.dzeninfra.ru/get-zen_doc/1918125/pub_5db437ba35ca3100b14db468_5db44a845d6c4b00ad64868b/scale_1200">
+        </div>
+    </section>
+<footer id="contacts">
+<div class="container">
+<div class="footer-content">
+<div class="footer-column">
+  
+     <h3>Магазин</h3>
+    <ul>
+        <li>Главная</li>
+        <li>Каталог</li>
+        <li>О нас</li>
+        <li>Доставка и оплата</li>
+   </ul>
+    </div>
+ 
+    <div class="footer-column">
+                   
+    <h3>Контакты</h3>
+    <ul>
+      
+    <li1>г. Москва, ул. Парфюмерная, 15</li1>
+    <li1>+7 (495) 123-45-67</li1>
+    <li1>info@aromatniy-mir.ru</li1>
+    <li1>Ежедневно с 10:00 до 21:00</li1>
+      
+    </ul>
+    </div>
+          
+    <p>2025 Ароматный мир. Все права защищены.</p>
+       
+</footer>
+</body>
+</html>
